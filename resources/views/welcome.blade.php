@@ -11,6 +11,17 @@
         gtag('config', 'UA-50122846-3');
         </script>
 
+        <meta name="description" content="nothing"/>
+        <meta name="keywords" content="nothing, noting, zero, website, minimalism, minimalist, design, none, empty, zero, good design, simple"/>
+        <meta name="author" content="Intelliskye"/>
+        <link rel="canonical" href="https://thereisnothingonthiswebsite.com/"/>
+        <meta name="dc.language" content="en">
+        <meta http-equiv="Content-Language" content="en">
+        <link rel="publisher" href="https://intelliskye.com/" />
+        <meta name="robots" content="all"/>
+        <meta name="revisit-after" content="4 days"/>
+
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
