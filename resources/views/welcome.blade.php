@@ -28,8 +28,7 @@
 
         <title>nothing</title>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+
 
         <!-- Styles -->
         <style>
@@ -72,6 +71,7 @@
 
             .content {
                 text-align: center;
+
             }
 
             .title {
@@ -88,12 +88,13 @@
                 margin-bottom: 30px;
             }
         </style>
+
     </head>
     <body>
         <div class="flex-center position-ref full-height">
 
 
-            <div class="content">
+            <div class="content" id="content">
                 <div class="title m-b-md">
                     nothing
                 </div>
