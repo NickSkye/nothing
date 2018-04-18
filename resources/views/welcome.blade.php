@@ -29,6 +29,14 @@
                 font-weight: 100;
                 height: 100vh;
                 margin: 0;
+
+
+            }
+
+            @media (max-width: 767px){
+                html, body {
+                    color: black;
+                }
             }
 
             .full-height {
