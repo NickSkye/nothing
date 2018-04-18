@@ -25,7 +25,7 @@
             html, body {
                 background-color: white;
                 color: white;
-                font-family: 'Raleway', sans-serif;
+                font-family: Arial;
                 font-weight: 100;
                 height: 100vh;
                 margin: 0;
@@ -59,15 +59,11 @@
                 font-size: 84px;
             }
 
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 12px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
+            .title:hover {
+                color: black
             }
+
+
 
             .m-b-md {
                 margin-bottom: 30px;
